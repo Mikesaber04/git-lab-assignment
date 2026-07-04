@@ -1,0 +1,5 @@
+Data Science Skills:
+- Python Programming
+- Git & Version Control
+- Data Analysis & Visualization
+- Statistical Modeling
