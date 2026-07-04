@@ -4,3 +4,4 @@ Task: Simulated Development Workflow
 
 Description:
 This project demonstrates version control management utilizing local Git repositories and remote tracking via GitHub. It encompasses feature branching, pull request workflows, and manual merge conflict resolution practices.
+Reviewing the pull request workflow details.
